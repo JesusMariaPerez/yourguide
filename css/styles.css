@@ -1,0 +1,54 @@
+
+  body {
+    background-color: #EAF6F6;
+
+  }
+
+  div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+
+  h1 {
+
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #66BFBF;
+  }
+
+  hr {
+    background-color: white;
+    height: 0px;
+    width: 4%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+  }
+
+  p {
+
+    text-align: justify;
+
+  }
+
+  a {
+    text-decoration: none;
+    color: purple;
+  }
+
+  .checked {
+    color: #66BFBF;
+  }
+
+  label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+  }
+
+  input,
+  label {
+    margin: .4rem 0;
+  }
